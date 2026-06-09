@@ -4,7 +4,7 @@
 
 Meu nome é Sandro Baltazar Costa e Silva, moro em Porto Alegre, Rio Grande do Sul. Atualmente, curso Engenharia de Software na PUCRS, onde venho aprofundando meus conhecimentos em desenvolvimento de sistemas, programação, banco de dados e engenharia de software.
 
-Tenho grande interesse por tecnologia e pelo desenvolvimento full stack, buscando constantemente ampliar minhas habilidades tanto no desenvolvimento de aplicações front-end quanto back-end. Durante a graduação, participo de projetos acadêmicos que me permitem aplicar conceitos teóricos na prática, aprimorando minhas competências técnicas e minha capacidade de trabalhar em equipe.
+Tenho grande interesse por tecnologia e pelo desenvolvimento de software, buscando constantemente ampliar minhas habilidades tanto no desenvolvimento de aplicações front-end quanto back-end. Durante a graduação, participo de projetos acadêmicos que me permitem aplicar conceitos teóricos na prática, aprimorando minhas competências técnicas e minha capacidade de trabalhar em equipe.
 
 ---
 
